@@ -1,0 +1,37 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wm_h1 {
+  color: white;
+}
+
+.wm_container {
+  height: 50%;
+  width: 90%;
+  background: rgba(24, 43, 62, 0.5);
+  border-radius: 10px;
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+}
+
+@media (min-width: 1024px) {
+  .wm_container {
+    width: 30%;
+    height: 90%;
+  }
+}
+
+@media (min-width: 1650px) {
+  .wm_container {
+    background: rgba(24, 43, 62, 0.5);
+    border-radius: 10px;
+  }
+}
