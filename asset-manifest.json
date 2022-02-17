@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather-application/static/css/main.fa334084.css",
+    "main.js": "/weather-application/static/js/main.79de412a.js",
+    "static/media/BG.jpg": "/weather-application/static/media/BG.2e02e4d4e4b6d5f3d2e6.jpg",
+    "static/media/Nav Logo.svg": "/weather-application/static/media/Nav Logo.e003b33a9ab6003fcba50b27873815ab.svg",
+    "index.html": "/weather-application/index.html",
+    "main.fa334084.css.map": "/weather-application/static/css/main.fa334084.css.map",
+    "main.79de412a.js.map": "/weather-application/static/js/main.79de412a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa334084.css",
+    "static/js/main.79de412a.js"
+  ]
+}
