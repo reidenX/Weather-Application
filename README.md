@@ -13,5 +13,4 @@ I really wanted to include a google map but it's actually harder than I thougt. 
 * Html
 * Css
 * Javascript
-* Sass
 * React
