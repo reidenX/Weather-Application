@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import "./footer.css";
 import { faYoutube } from "@fortawesome/free-brands-svg-icons";
 import { faInstagram } from "@fortawesome/free-brands-svg-icons";
